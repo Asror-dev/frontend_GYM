@@ -1,0 +1,34 @@
+.card3{
+    background-color: rgba(0, 0, 0, 0.53);
+    width: 490px;
+    border-radius: 10px;
+    padding: 9px;
+    margin: 5px;
+    justify-content: center;
+    display: flex;
+
+}
+.k{
+    margin-top: -70px;
+    
+}
+. rr{
+    overflow-y: scroll;
+    width: 100%;
+    height: 100vh;
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+}
+.ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card8{
+background-color: rgba(0, 0, 0, 0.85);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.g{
+    justify-content: center;
+    display: flex;
+}
